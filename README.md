@@ -1,7 +1,7 @@
 # sell
 
 > sell app
-
+>使用Vue+Vue-router+Vue-Resource+Webpack+Eslint技术栈实现外卖平台，商家详情页面，店铺评价页面，单个食品详情页面，完成了购物车功能，点单小球动画功能，商品评价等功能的组件化，了解了自适应布局，sticky footer，mediaQuery等移动端常用技术。
 ## Build Setup
 
 ``` bash
